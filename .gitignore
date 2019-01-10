@@ -33,4 +33,5 @@ coverage.txt
 ingress-controller
 
 # ignore vendor tree
-vendor
+# vendor
+.idea
